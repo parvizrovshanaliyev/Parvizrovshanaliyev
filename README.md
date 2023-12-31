@@ -2,10 +2,7 @@
 
 
 <p align="center">
-<!--     <a href="https://twitter.com/jasontaylordev"><img src="https://img.shields.io/badge/-Twitter-2D2B55?style=flat-square&logo=twitter&logoColor=white"/></a> -->
     <a href="https://linkedin.com/in/parviz-rovshan-aliyev"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<!--     <a href="https://www.youtube.com/c/jasontaylordev"><img src="https://img.shields.io/badge/-Youtube-2D2B55?style=flat-square&logo=Youtube&logoColor=white"/></a> -->
-<!--     <a href="https://jasontaylor.dev"><img src="https://img.shields.io/badge/-Blog-2D2B55?style=flat-square&logo=RSS&logoColor=white"/></a> -->
 </p>
 
 Headline: Back-End Developer | C#, .NET | REST API | MSSQL | ORM | Design Patterns
@@ -31,13 +28,6 @@ Feel free to reach out to me through connection requests or messages. I look for
 Parviz
 
 ## GitHub Stats
-
-<a href="https://github.com/parvizrovshanaliyev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parvizrovshanaliyev&show_icons=true&theme=shades-of-purple&count_private=true" alt="parvizrovshanaliyev's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvizrovshanaliyev&theme=shades-of-purple&layout=compact" 
-    alt="parvizrovshanaliyev GitHub Top Languages" />
-</a>
-
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=parvizrovshanaliyev&show_icons=true&theme=dark" alt="ardalis" />
 <div/>
@@ -47,7 +37,5 @@ Parviz
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvizrovshanaliyev&layout=compact&hide=html&theme=dark" alt="parvizrovshanaliyev" />
 <div/>
 <br />
-
-![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=parvizrovshanaliyev&repo=ardalis&countColor=%237B1E7A)
 
 
