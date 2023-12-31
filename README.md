@@ -52,15 +52,15 @@ Parviz
 Want to help? [Here are my "Good First Issue" issues](https://github.com/search?q=is%3Aopen+author%3Aardalis+label%3A%22good+first+issue%22).
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ardalis&show_icons=true&theme=dark" alt="ardalis" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parvizrovshanaliyev&show_icons=true&theme=dark" alt="ardalis" />
 <div/>
 <br />
   
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardalis&layout=compact&hide=html&theme=dark" alt="ardalis" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvizrovshanaliyev&layout=compact&hide=html&theme=dark" alt="parvizrovshanaliyev" />
 <div/>
 <br />
 
-![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ardalis&repo=ardalis&countColor=%237B1E7A)
+![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=parvizrovshanaliyev&repo=ardalis&countColor=%237B1E7A)
 
 
