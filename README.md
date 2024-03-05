@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-Hello, my name is Parviz. I am a skilled back-end developer with over 3 years of experience in the field. I specialize in C# and .NET technologies, utilizing them to create robust and efficient back-end solutions.
+Hello, my name is Parviz. I am an experienced back-end developer with expertise in C# and .NET technologies. I specialize in creating robust and efficient back-end solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parviz-rovshan-aliyev)
