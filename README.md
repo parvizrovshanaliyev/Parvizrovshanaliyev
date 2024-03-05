@@ -1,13 +1,13 @@
 ![Kayıt_2021_03_03_22_04_11_871](https://user-images.githubusercontent.com/44087592/109851337-00b3e080-7c6d-11eb-8c4e-db4f963d8eb6.gif)
 
-## 🌐 Socials:
-(https://instagram.com/parviz-rovshan-aliyev) [![LinkedIn] 
-
 Headline: Back-End Developer | C#, .NET | REST API | MSSQL | ORM | Design Patterns
 
-Summary:
+# 💫 About Me:
 
 Hello, my name is Parviz. I am a skilled back-end developer with over 3 years of experience in the field. I specialize in C# and .NET technologies, utilizing them to create robust and efficient back-end solutions.
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/husseinbeygi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/husseinbeygi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18231350/hussein-beygi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/husseinbeygi)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
