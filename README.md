@@ -124,14 +124,6 @@ Whether it’s designing scalable APIs, enhancing system performance, or solving
 
 ---
 
-### Additional Metrics
-- **Total Contributions**: Shows how active you’ve been in the open-source community over time.
-- **Commits & Pull Requests**: Highlights your consistency in contributing to repositories.
-- **Repositories**: Demonstrates the diversity of your work across various projects.
-- **Collaborations**: Reflects teamwork through pull requests and issues.
-
----
-
 ### Tools Included
 1. **GitHub Stats**: Gives an overview of your activity, including stars, forks, and commits.
 2. **Top Languages**: Displays the languages you work with most, highlighting your tech stack.
