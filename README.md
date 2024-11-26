@@ -1,24 +1,22 @@
-Here’s a fully rewritten version of your README with the requested format, ensuring the icons are neatly aligned side by side:
-
----
+![Kayıt_2021_03_03_22_04_11_871](https://user-images.githubusercontent.com/44087592/109851337-00b3e080-7c6d-11eb-8c4e-db4f963d8eb6.gif)
 
 # About Me
 
-Hi, I’m **Parviz**, a **Senior Back-End Developer** with extensive experience in **C#**, **.NET**, and modern technologies. I specialize in building **scalable**, **secure**, and **high-performance** back-end systems for complex projects.
+Hi, I’m **Parviz**, a **Senior Back-End Developer** with extensive expertise in **C#**, **.NET**, and a wide spectrum of modern technologies. With a strong focus on crafting **scalable**, **secure**, and **high-performance** systems, I bring a strategic approach to solving complex technical challenges.
 
-I am passionate about solving challenging problems, delivering clean and maintainable code, and adhering to best practices like **SOLID principles** and modern design patterns. My mission is to create impactful software solutions that align with business goals and exceed expectations.
+I excel at designing robust back-end architectures, delivering maintainable and future-ready solutions, and adhering to industry standards like **SOLID principles** and advanced design patterns. My goal is to drive innovation through impactful software solutions that not only meet but exceed business expectations.
 
 ---
 
 ## 🚀 Expertise & Skills
 
 ### 🛠 Core Competencies:
-- **Back-End Architecture**: Designing scalable and maintainable systems.
-- **API Development**: Building secure **RESTful** and **GraphQL** APIs.
-- **Optimization**: Enhancing application performance and reliability.
-- **Collaboration**: Mentoring teams, conducting code reviews, and promoting best practices.
+- **Back-End Architecture**: Strategically designing modular, maintainable, and performance-driven systems tailored for enterprise-grade scalability.
+- **API Development**: Expert in building secure, efficient, and scalable **RESTful** and **GraphQL** APIs for seamless integrations.
+- **Performance Optimization**: Specializing in enhancing reliability, scalability, and throughput for mission-critical applications.
+- **Leadership & Collaboration**: Guiding teams through mentorship, conducting rigorous code reviews, and fostering a culture of technical excellence and continuous improvement.
 
----
+--- 
 
 ## 💻 Tech Stack
 
@@ -29,37 +27,35 @@ I am passionate about solving challenging problems, delivering clean and maintai
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
   <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR" />
-  <img src="https://img.shields.io/badge/Web%20API-239120?style=for-the-badge&logo=dotnet&logoColor=white" alt="Web API" />
-  <img src="https://img.shields.io/badge/RESTful%20APIs-239120?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs" />
 </div>
 
-#### Core Expertise:
-- **Languages & Frameworks**: Advanced proficiency in **C#**, **ASP.NET Core MVC**, **ASP.NET Core Web API**, and Razor Pages.
-- **API Development**: Expertise in designing, implementing, and optimizing secure and scalable **RESTful APIs** and **GraphQL** services.
-- **Entity Framework Core**: Comprehensive experience with EF Core, including migrations, advanced LINQ, performance tuning, and database-first & code-first approaches.
-- **SignalR**: Skilled in implementing real-time communication for notifications, live updates, and chat applications.
-- **Middleware Development**: Crafting custom middleware for logging, exception handling, and request/response processing.
+#### Expertise:
+- **Languages & Frameworks**: Deep expertise in **C#**, **ASP.NET Core MVC**, **ASP.NET Core Web API**, and Razor Pages.
+- **Entity Framework Core**: Skilled in migrations, advanced LINQ, performance optimization, and both database-first and code-first approaches.
+- **API Development**: Specialized in designing and scaling secure **RESTful APIs** and **GraphQL** services.
+- **SignalR**: Proficient in implementing real-time functionality for notifications, live updates, and collaborative applications.
+- **Middleware Development**: Creating custom middleware for handling logging, authentication, and error management.
 
 ---
 
 ### Architecture & Design Patterns:
-- **Clean Architecture**: Designing modular and maintainable systems using **Clean Code** and **Domain-Driven Design (DDD)** principles.
-- **Design Patterns**: Expertise in applying patterns such as **Repository**, **Unit of Work**, **CQRS**, and **Factory** to ensure scalability and maintainability.
-- **Dependency Injection (DI)**: Building highly testable and maintainable codebases by leveraging DI frameworks.
+- **Clean Architecture**: Building maintainable and scalable solutions using **Domain-Driven Design (DDD)** principles.
+- **Design Patterns**: Expertise in applying **CQRS**, **Repository**, **Unit of Work**, and **Factory** patterns for robust software design.
+- **Dependency Injection (DI)**: Leveraging DI frameworks to create highly testable and loosely coupled applications.
 
 ---
 
 ### Advanced Back-End Tools & Techniques:
-- **Authentication & Authorization**: Implementing secure workflows using **IdentityServer4**, **JWT**, **OAuth2**, and custom authentication mechanisms.
-- **ORMs**: Mastery in **Entity Framework Core**, **Dapper**, and ADO.NET for efficient and optimized data access.
-- **Logging & Monitoring**: Deep knowledge of tools like **Serilog**, **NLog**, **Elasticsearch**, and **Application Insights** for application monitoring and debugging.
+- **Authentication & Authorization**: Experienced in **JWT**, **OAuth2**, **IdentityServer4**, and custom security mechanisms.
+- **ORMs**: Mastery of **Entity Framework Core**, **Dapper**, and ADO.NET for efficient database interaction.
+- **Logging & Monitoring**: Proficient with **Serilog**, **NLog**, **Elasticsearch**, and **Azure Application Insights**.
 
 ---
 
 ### Testing & Quality Assurance:
-- **Unit Testing & Integration Testing**: Proficient with **NUnit**, **xUnit**, and **MSTest** to ensure code quality.
-- **Mocking Frameworks**: Extensive use of **Moq**, **NSubstitute**, and **FakeItEasy** for test isolation.
-- **Test-Driven Development (TDD)**: Applying TDD to deliver robust, reliable, and maintainable software solutions.
+- **Testing Frameworks**: Proficient with **NUnit**, **xUnit**, and **MSTest** for both unit and integration testing.
+- **Mocking Libraries**: Extensive use of **Moq**, **NSubstitute**, and **FakeItEasy** for isolating test dependencies.
+- **Test-Driven Development (TDD)**: Committed to delivering reliable software through a TDD approach.
 
 ---
 
@@ -70,26 +66,26 @@ I am passionate about solving challenging problems, delivering clean and maintai
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </div>
 
-- **Azure Services**: Proficient in **Azure App Services**, **Azure Functions**, **Azure DevOps**, and **Azure SQL**.
-- **CI/CD Pipelines**: Automating build, test, and deployment workflows using **Azure DevOps**, **GitHub Actions**, and **Jenkins**.
-- **Containerization**: Extensive experience with **Docker** and container orchestration using **Kubernetes**.
+#### Cloud Expertise:
+- **Azure Services**: Experience with **Azure Functions**, **Azure App Services**, **Azure DevOps**, and **Azure SQL**.
+- **CI/CD Pipelines**: Automation of build, test, and deployment processes using **Azure DevOps**, **GitHub Actions**, and **Jenkins**.
+- **Containerization**: Advanced knowledge of **Docker** and orchestration tools like **Kubernetes**.
 
 ---
 
 ### Database Management:
-- **Relational Databases**: Advanced knowledge of **Microsoft SQL Server** and **PostgreSQL**, including indexing, query optimization, and stored procedures.
-- **NoSQL Databases**: Skilled in **MongoDB** for document-oriented database solutions.
-
+- **Relational Databases**: Expertise in **Microsoft SQL Server** and **PostgreSQL**, including query optimization, indexing, and stored procedures.
+- **NoSQL Databases**: Experience with **MongoDB** for scalable, document-oriented solutions.
 
 ---
 
 ## 🌟 My Approach & Vision
 
-- **Innovation**: Staying ahead of industry trends to implement modern, efficient solutions.
-- **Clean Code**: Writing maintainable and future-proof code using design principles like **SOLID**.
-- **Teamwork**: Building a collaborative environment and mentoring team members to achieve shared success.
+- **Innovation**: Staying ahead of industry trends to deliver cutting-edge solutions.
+- **Clean Code**: Following modern design principles like **SOLID** to ensure code maintainability.
+- **Collaboration**: Mentoring and collaborating with teams to foster technical excellence.
 
-Whether it's optimizing performance, developing scalable APIs, or designing enterprise-grade systems, I’m committed to creating software that solves real-world problems.
+Whether it’s designing scalable APIs, enhancing system performance, or solving intricate problems, I am committed to delivering impactful software that drives value.
 
 ---
 
@@ -106,23 +102,47 @@ Whether it's optimizing performance, developing scalable APIs, or designing ente
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parvizrovshanaliyev&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parvizrovshanaliyev&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
   <a href="https://github.com/parvizrovshanaliyev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvizrovshanaliyev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvizrovshanaliyev&layout=compact&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20Used%20Languages" alt="Top Languages" />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parvizrovshanaliyev&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=6" alt="Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvizrovshanaliyev&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### Additional Metrics
+- **Total Contributions**: Shows how active you’ve been in the open-source community over time.
+- **Commits & Pull Requests**: Highlights your consistency in contributing to repositories.
+- **Repositories**: Demonstrates the diversity of your work across various projects.
+- **Collaborations**: Reflects teamwork through pull requests and issues.
+
+---
+
+### Tools Included
+1. **GitHub Stats**: Gives an overview of your activity, including stars, forks, and commits.
+2. **Top Languages**: Displays the languages you work with most, highlighting your tech stack.
+3. **Trophies**: A visual representation of achievements on GitHub (e.g., issues solved, stars earned).
+4. **Streak Stats**: Tracks your daily contributions over time to showcase commitment and consistency.
 
 ---
 
 ## Let’s Build Together!
 
-I am always eager to explore new challenges and collaborations that push the boundaries of technology. Feel free to connect with me—I look forward to building something extraordinary together! 🚀
+I’m always looking for exciting opportunities to collaborate and tackle challenging projects. Let’s connect and build something extraordinary together! 🚀
 
 ---
 
