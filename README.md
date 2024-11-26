@@ -115,10 +115,6 @@ Whether it’s designing scalable APIs, enhancing system performance, or solving
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parvizrovshanaliyev&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=6" alt="Trophies" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvizrovshanaliyev&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
