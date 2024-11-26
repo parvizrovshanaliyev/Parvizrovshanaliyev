@@ -1,25 +1,21 @@
 ![Kayıt_2021_03_03_22_04_11_871](https://user-images.githubusercontent.com/44087592/109851337-00b3e080-7c6d-11eb-8c4e-db4f963d8eb6.gif)
 
 ---
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parviz-rovshan-aliyev)
----
-
 # About Me
 
-Hi, I’m **Parviz**, an accomplished **Senior Back-End Developer** with extensive experience in **C#**, **.NET**, and a diverse range of modern technologies. Over the years, I’ve had the privilege of working on complex, high-impact projects, where I’ve designed and delivered scalable, secure, and high-performance back-end systems.
+Hi, I’m **Parviz**, a dedicated and results-driven **Senior Back-End Developer** with in-depth expertise in **C#**, **.NET**, and a wide range of modern technologies. Over the years, I’ve successfully contributed to complex, high-impact projects, building scalable, secure, and high-performance back-end solutions.
 
-My passion lies in solving challenging technical problems and creating solutions that are clean, maintainable, and future-proof. By leveraging industry best practices, cutting-edge frameworks, and solid architectural principles like **SOLID**, I ensure that the systems I build are both reliable and efficient.
+My passion lies in solving intricate technical challenges and delivering clean, maintainable, and future-proof code. By leveraging best practices, modern frameworks, and architectural principles such as **SOLID**, I ensure that every system I develop is reliable, efficient, and aligned with business goals.
 
 ---
 
 ## 🚀 Expertise & Skills
 
 ### Core Competencies:
-- **Back-End Architecture**: Crafting modular, maintainable, and high-performance systems that align with business objectives.
-- **API Development**: Building secure, scalable RESTful and GraphQL APIs for seamless integration.
-- **Optimization**: Ensuring application reliability, scalability, and performance for enterprise-grade workloads.
-- **Collaboration & Leadership**: Mentoring teams, conducting code reviews, and fostering a culture of best practices.
+- **Back-End Architecture**: Designing modular, maintainable, and efficient systems tailored to business needs.
+- **API Development**: Developing secure and scalable **RESTful** and **GraphQL** APIs for seamless integration.
+- **Optimization & Scalability**: Ensuring high performance and reliability for enterprise-grade systems.
+- **Collaboration & Leadership**: Mentoring teams, conducting code reviews, and fostering a culture of technical excellence.
 
 ---
 
@@ -43,7 +39,7 @@ My passion lies in solving challenging technical problems and creating solutions
 
 ### Software Design & Architecture:
 - **Design Patterns**: Unit of Work, Generic Repository, CQRS (with MediatR)  
-- **Principles**: Strong adherence to **SOLID** and Object-Oriented Programming (OOP) principles  
+- **Principles**: SOLID and Object-Oriented Programming (OOP)  
 - **Testing**: Unit Testing, Integration Testing  
 
 ### Cloud & DevOps:
@@ -55,28 +51,37 @@ My passion lies in solving challenging technical problems and creating solutions
 
 ## 🌟 My Approach & Vision
 
-I am driven by a passion for innovation and continuous learning. Staying updated with the latest advancements in technology allows me to bring fresh ideas and cutting-edge solutions to every project. Collaboration is at the core of my philosophy—I thrive in environments where ideas flow freely, and teamwork drives success.
+I am committed to innovation and continuous growth, staying ahead of industry trends to deliver cutting-edge solutions. Collaboration is at the heart of my philosophy—I thrive in team environments where creativity and problem-solving come together to drive success.
 
-Whether mentoring team members, optimizing applications for performance, or designing scalable systems, my goal is to create impactful solutions that exceed expectations.
+My approach involves mentoring team members, optimizing applications for maximum performance, and crafting scalable systems that exceed expectations. Let’s connect and create exceptional solutions together.
 
 ---
 
-## GitHub Stats
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parviz-rovshan-aliyev)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parvizrovshanaliyev)
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parvizrovshanaliyev&show_icons=true&theme=dark" alt="KyleMcMaster" />
+---
 
-  <a href="https://github.com/parvizrovshanaliyev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvizrovshanaliyev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<p/>
-<br />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parvizrovshanaliyev&show_icons=true&theme=dark" alt="Parviz's GitHub Stats" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/parvizrovshanaliyev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvizrovshanaliyev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
 ## Let’s Build Together!
 
-I am always eager to explore new opportunities and collaborations where I can contribute my expertise to create meaningful and impactful solutions. Let’s connect and make something extraordinary happen! 🚀
+I am always excited to explore new opportunities and collaborations where I can apply my skills and contribute to impactful projects. Feel free to reach out—I look forward to connecting and building something extraordinary.
 
-Thank you for visiting!  
+**Thank you for visiting!**  
 **Parviz**  
 
 ![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=parvizrovshanaliyev&repo=parvizrovshanaliyev&countColor=%237B1E7A)
