@@ -120,14 +120,6 @@ Whether it’s designing scalable APIs, enhancing system performance, or solving
 
 ---
 
-### Tools Included
-1. **GitHub Stats**: Gives an overview of your activity, including stars, forks, and commits.
-2. **Top Languages**: Displays the languages you work with most, highlighting your tech stack.
-3. **Trophies**: A visual representation of achievements on GitHub (e.g., issues solved, stars earned).
-4. **Streak Stats**: Tracks your daily contributions over time to showcase commitment and consistency.
-
----
-
 ## Let’s Build Together!
 
 I’m always looking for exciting opportunities to collaborate and tackle challenging projects. Let’s connect and build something extraordinary together! 🚀
