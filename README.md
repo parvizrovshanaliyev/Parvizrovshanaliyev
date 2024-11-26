@@ -1,87 +1,84 @@
-![Kayıt_2021_03_03_22_04_11_871](https://user-images.githubusercontent.com/44087592/109851337-00b3e080-7c6d-11eb-8c4e-db4f963d8eb6.gif)
+Here’s a fully rewritten version of your README with the requested format, ensuring the icons are neatly aligned side by side:
 
 ---
+
 # About Me
 
-Hi, I’m **Parviz**, a dedicated and results-driven **Senior Back-End Developer** with in-depth expertise in **C#**, **.NET**, and a wide range of modern technologies. Over the years, I’ve successfully contributed to complex, high-impact projects, building scalable, secure, and high-performance back-end solutions.
+Hi, I’m **Parviz**, a **Senior Back-End Developer** with extensive experience in **C#**, **.NET**, and modern technologies. I specialize in building **scalable**, **secure**, and **high-performance** back-end systems for complex projects.
 
-My passion lies in solving intricate technical challenges and delivering clean, maintainable, and future-proof code. By leveraging best practices, modern frameworks, and architectural principles such as **SOLID**, I ensure that every system I develop is reliable, efficient, and aligned with business goals.
+I am passionate about solving challenging problems, delivering clean and maintainable code, and adhering to best practices like **SOLID principles** and modern design patterns. My mission is to create impactful software solutions that align with business goals and exceed expectations.
 
 ---
 
 ## 🚀 Expertise & Skills
 
-### Core Competencies:
-- **Back-End Architecture**: Designing modular, maintainable, and efficient systems tailored to business needs.
-- **API Development**: Developing secure and scalable **RESTful** and **GraphQL** APIs for seamless integration.
-- **Optimization & Scalability**: Ensuring high performance and reliability for enterprise-grade systems.
-- **Collaboration & Leadership**: Mentoring teams, conducting code reviews, and fostering a culture of technical excellence.
+### 🛠 Core Competencies:
+- **Back-End Architecture**: Designing scalable and maintainable systems.
+- **API Development**: Building secure **RESTful** and **GraphQL** APIs.
+- **Optimization**: Enhancing application performance and reliability.
+- **Collaboration**: Mentoring teams, conducting code reviews, and promoting best practices.
 
 ---
 
 ## 💻 Tech Stack
 
-### Programming & Frameworks:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  | ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-- **Languages**: C#, ASP.NET Core (MVC, Web API), TypeScript, JavaScript, Nest.js  
-- **API Development**: RESTful APIs, GraphQL  
-- **Web Technologies**: HTML/CSS, SASS, jQuery, Ajax  
-
-### Databases:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-- **Relational Databases**: MSSQL, PostgreSQL  
-- **NoSQL Databases**: MongoDB  
-- **ORM Tools**: Entity Framework Core, TypeORM, ADO.NET  
-
-### Software Design & Architecture:
-- **Design Patterns**: Unit of Work, Generic Repository, CQRS (with MediatR)  
-- **Principles**: SOLID and Object-Oriented Programming (OOP)  
-- **Testing**: Unit Testing, Integration Testing  
-
-### Cloud & DevOps:
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)  
-- **Cloud Services**: Microsoft Azure  
-- **DevOps Tools**: CI/CD pipelines and deployment best practices  
+<div align="center">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+</div>
 
 ---
 
 ## 🌟 My Approach & Vision
 
-I am committed to innovation and continuous growth, staying ahead of industry trends to deliver cutting-edge solutions. Collaboration is at the heart of my philosophy—I thrive in team environments where creativity and problem-solving come together to drive success.
+- **Innovation**: Staying ahead of industry trends to implement modern, efficient solutions.
+- **Clean Code**: Writing maintainable and future-proof code using design principles like **SOLID**.
+- **Teamwork**: Building a collaborative environment and mentoring team members to achieve shared success.
 
-My approach involves mentoring team members, optimizing applications for maximum performance, and crafting scalable systems that exceed expectations. Let’s connect and create exceptional solutions together.
+Whether it's optimizing performance, developing scalable APIs, or designing enterprise-grade systems, I’m committed to creating software that solves real-world problems.
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parviz-rovshan-aliyev)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parvizrovshanaliyev)
+## 🌐 Socials
+
+<div align="center">
+  <a href="https://linkedin.com/in/parviz-rovshan-aliyev">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/parvizrovshanaliyev">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parvizrovshanaliyev&show_icons=true&theme=dark" alt="Parviz's GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parvizrovshanaliyev&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/parvizrovshanaliyev">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvizrovshanaliyev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
-</p>
+</div>
 
 ---
 
 ## Let’s Build Together!
 
-I am always excited to explore new opportunities and collaborations where I can apply my skills and contribute to impactful projects. Feel free to reach out—I look forward to connecting and building something extraordinary.
+I am always eager to explore new challenges and collaborations that push the boundaries of technology. Feel free to connect with me—I look forward to building something extraordinary together! 🚀
+
+---
 
 **Thank you for visiting!**  
-**Parviz**  
+**Parviz**
 
 ![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=parvizrovshanaliyev&repo=parvizrovshanaliyev&countColor=%237B1E7A)
-
-
