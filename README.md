@@ -1,45 +1,65 @@
 ![Kayıt_2021_03_03_22_04_11_871](https://user-images.githubusercontent.com/44087592/109851337-00b3e080-7c6d-11eb-8c4e-db4f963d8eb6.gif)
 
-# About Me
-
-Hi, I'm **Parviz**, a seasoned **Senior Back-End Developer** with extensive experience in **C#** and the **.NET ecosystem**. Over the years, I've honed my expertise in designing and delivering scalable, secure, and efficient back-end solutions for complex, high-impact projects.
-
-## Expertise and Skills
-
-As a senior developer, I specialize in:
-- **Back-End Architecture**: Designing modular, maintainable, and high-performance systems tailored to meet business goals.
-- **API Development**: Building secure, RESTful, and scalable APIs for seamless integration with front-end and third-party systems.
-- **Optimization and Scalability**: Enhancing application performance, reliability, and scalability to handle enterprise-grade workloads.
-- **Leadership and Collaboration**: Mentoring teams, conducting code reviews, and fostering best practices in development.
-
-## My Approach
-
-- **Problem-Solving**: I thrive on tackling complex technical challenges and providing innovative solutions.
-- **Best Practices**: I prioritize clean code, design patterns, and robust testing methodologies to ensure long-term maintainability.
-- **Continuous Growth**: Staying ahead of the curve by embracing emerging technologies and evolving my technical expertise.
-
-With a proven track record of delivering impactful results, I am committed to driving success through technical excellence and strategic thinking. Let’s connect to build exceptional software solutions together! 🚀
-
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parviz-rovshan-aliyev)
+---
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+# About Me
 
-- Programming Languages: C#, ASP.NET (Core MVC, Core Web API), JavaScript (jQuery, Ajax, TypeScript), Nest.js, GraphQL
-- Databases: MSSQL, Postgres
-- ORM (Object-Relational Mapping): EF Core, TypeORM, ADO.NET
-- Design Patterns: UnitOfWork, GenericRepository, CQRS with MediatR
-- Testing: Unit testing, integration testing
-- Strong understanding of Object-Oriented Programming (OOP)
-- Web Technologies: HTML/CSS, SASS
+Hi, I’m **Parviz**, an accomplished **Senior Back-End Developer** with extensive experience in **C#**, **.NET**, and a diverse range of modern technologies. Over the years, I’ve had the privilege of working on complex, high-impact projects, where I’ve designed and delivered scalable, secure, and high-performance back-end systems.
 
-I am passionate about staying updated with the latest advancements in the technology landscape and continuously expanding my skill set. I am open to new opportunities and collaborations, where I can contribute my expertise and drive innovation.
+My passion lies in solving challenging technical problems and creating solutions that are clean, maintainable, and future-proof. By leveraging industry best practices, cutting-edge frameworks, and solid architectural principles like **SOLID**, I ensure that the systems I build are both reliable and efficient.
 
-Feel free to reach out to me through connection requests or messages. I look forward to connecting with professionals in the industry and exploring potential synergies. Thank you.
+---
 
-Parviz
+## 🚀 Expertise & Skills
+
+### Core Competencies:
+- **Back-End Architecture**: Crafting modular, maintainable, and high-performance systems that align with business objectives.
+- **API Development**: Building secure, scalable RESTful and GraphQL APIs for seamless integration.
+- **Optimization**: Ensuring application reliability, scalability, and performance for enterprise-grade workloads.
+- **Collaboration & Leadership**: Mentoring teams, conducting code reviews, and fostering a culture of best practices.
+
+---
+
+## 💻 Tech Stack
+
+### Programming & Frameworks:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+- **Languages**: C#, ASP.NET Core (MVC, Web API), TypeScript, JavaScript, Nest.js  
+- **API Development**: RESTful APIs, GraphQL  
+- **Web Technologies**: HTML/CSS, SASS, jQuery, Ajax  
+
+### Databases:
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+- **Relational Databases**: MSSQL, PostgreSQL  
+- **NoSQL Databases**: MongoDB  
+- **ORM Tools**: Entity Framework Core, TypeORM, ADO.NET  
+
+### Software Design & Architecture:
+- **Design Patterns**: Unit of Work, Generic Repository, CQRS (with MediatR)  
+- **Principles**: Strong adherence to **SOLID** and Object-Oriented Programming (OOP) principles  
+- **Testing**: Unit Testing, Integration Testing  
+
+### Cloud & DevOps:
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)  
+- **Cloud Services**: Microsoft Azure  
+- **DevOps Tools**: CI/CD pipelines and deployment best practices  
+
+---
+
+## 🌟 My Approach & Vision
+
+I am driven by a passion for innovation and continuous learning. Staying updated with the latest advancements in technology allows me to bring fresh ideas and cutting-edge solutions to every project. Collaboration is at the core of my philosophy—I thrive in environments where ideas flow freely, and teamwork drives success.
+
+Whether mentoring team members, optimizing applications for performance, or designing scalable systems, my goal is to create impactful solutions that exceed expectations.
+
+---
 
 ## GitHub Stats
 
@@ -51,6 +71,13 @@ Parviz
 <br />
 
 ---
+
+## Let’s Build Together!
+
+I am always eager to explore new opportunities and collaborations where I can contribute my expertise to create meaningful and impactful solutions. Let’s connect and make something extraordinary happen! 🚀
+
+Thank you for visiting!  
+**Parviz**  
 
 ![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=parvizrovshanaliyev&repo=parvizrovshanaliyev&countColor=%237B1E7A)
 
