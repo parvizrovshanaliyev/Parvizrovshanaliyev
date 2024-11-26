@@ -22,16 +22,64 @@ I am passionate about solving challenging problems, delivering clean and maintai
 
 ## 💻 Tech Stack
 
+### .NET Ecosystem & Back-End Development:
 <div align="center">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MSSQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR" />
+  <img src="https://img.shields.io/badge/Web%20API-239120?style=for-the-badge&logo=dotnet&logoColor=white" alt="Web API" />
+  <img src="https://img.shields.io/badge/RESTful%20APIs-239120?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs" />
 </div>
+
+#### Core Expertise:
+- **Languages & Frameworks**: Advanced proficiency in **C#**, **ASP.NET Core MVC**, **ASP.NET Core Web API**, and Razor Pages.
+- **API Development**: Expertise in designing, implementing, and optimizing secure and scalable **RESTful APIs** and **GraphQL** services.
+- **Entity Framework Core**: Comprehensive experience with EF Core, including migrations, advanced LINQ, performance tuning, and database-first & code-first approaches.
+- **SignalR**: Skilled in implementing real-time communication for notifications, live updates, and chat applications.
+- **Middleware Development**: Crafting custom middleware for logging, exception handling, and request/response processing.
+
+---
+
+### Architecture & Design Patterns:
+- **Clean Architecture**: Designing modular and maintainable systems using **Clean Code** and **Domain-Driven Design (DDD)** principles.
+- **Design Patterns**: Expertise in applying patterns such as **Repository**, **Unit of Work**, **CQRS**, and **Factory** to ensure scalability and maintainability.
+- **Dependency Injection (DI)**: Building highly testable and maintainable codebases by leveraging DI frameworks.
+
+---
+
+### Advanced Back-End Tools & Techniques:
+- **Authentication & Authorization**: Implementing secure workflows using **IdentityServer4**, **JWT**, **OAuth2**, and custom authentication mechanisms.
+- **ORMs**: Mastery in **Entity Framework Core**, **Dapper**, and ADO.NET for efficient and optimized data access.
+- **Logging & Monitoring**: Deep knowledge of tools like **Serilog**, **NLog**, **Elasticsearch**, and **Application Insights** for application monitoring and debugging.
+
+---
+
+### Testing & Quality Assurance:
+- **Unit Testing & Integration Testing**: Proficient with **NUnit**, **xUnit**, and **MSTest** to ensure code quality.
+- **Mocking Frameworks**: Extensive use of **Moq**, **NSubstitute**, and **FakeItEasy** for test isolation.
+- **Test-Driven Development (TDD)**: Applying TDD to deliver robust, reliable, and maintainable software solutions.
+
+---
+
+### Cloud & DevOps:
+<div align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</div>
+
+- **Azure Services**: Proficient in **Azure App Services**, **Azure Functions**, **Azure DevOps**, and **Azure SQL**.
+- **CI/CD Pipelines**: Automating build, test, and deployment workflows using **Azure DevOps**, **GitHub Actions**, and **Jenkins**.
+- **Containerization**: Extensive experience with **Docker** and container orchestration using **Kubernetes**.
+
+---
+
+### Database Management:
+- **Relational Databases**: Advanced knowledge of **Microsoft SQL Server** and **PostgreSQL**, including indexing, query optimization, and stored procedures.
+- **NoSQL Databases**: Skilled in **MongoDB** for document-oriented database solutions.
+
 
 ---
 
